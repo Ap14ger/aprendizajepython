@@ -15,4 +15,8 @@ Persona1.imprimir()
 
 Persona2=Persona()
 Persona2.inicializar("juan")
-Persona2.imprimir()
+Persona2.imprimir() 
+
+persona3=Persona()
+persona3.inicializar("pepe")
+persona3.imprimir()
